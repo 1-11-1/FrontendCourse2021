@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-13T00:39:42.175Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="V7F0UNaAsgzM-7MdPCSC" version="14.3.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-13T00:50:10.256Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="sJKdvcYz6LNtJiKTTybL" version="14.3.1" type="github" pages="2">
   <diagram id="aDABKkMHzaQ7Ft_NV5Rm" name="Course Structure">
     <mxGraphModel dx="946" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
@@ -31,6 +31,15 @@
         <mxCell id="FhdxN6m3dHfvLrAjemN1-7" value="Senior Frontend Engineer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontSize=50;" vertex="1" parent="1">
           <mxGeometry x="112" y="40" width="620" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="EIC1_NiphJhUQ_3H3qbQ-1" value="Section 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="320" y="260" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EIC1_NiphJhUQ_3H3qbQ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="210" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIC1_NiphJhUQ_3H3qbQ-3" value="" style="ellipse;whiteSpace=wrap;html=1;shadow=1;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="490" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -39,6 +48,12 @@
       <root>
         <mxCell id="_15LmRB4a6UN6HwErNP7-0" />
         <mxCell id="_15LmRB4a6UN6HwErNP7-1" parent="_15LmRB4a6UN6HwErNP7-0" />
+        <mxCell id="hGAZXqBT-YaYG_Ff_SBw-0" value="Section" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="_15LmRB4a6UN6HwErNP7-1">
+          <mxGeometry x="180" y="140" width="320" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="hGAZXqBT-YaYG_Ff_SBw-1" value="1. Concept&#xa;2. Coding Exercise" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="hGAZXqBT-YaYG_Ff_SBw-0">
+          <mxGeometry y="30" width="320" height="210" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
