@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-17T21:39:41.351Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="U34LllI9mpqotj08WbJi" version="14.3.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-02-17T23:46:25.817Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="ZkGVFQHSr5syFkNVywsK" version="14.3.1" type="github" pages="3">
   <diagram id="4R_qcKYH2vp2XVqdwSuo" name="Course Structure">
     <mxGraphModel dx="2998" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -320,8 +320,8 @@
         <mxCell id="p8J0iuqBpEWRt1dYp2CT-18" value="&lt;font style=&quot;font-size: 33px&quot; color=&quot;#00cc00&quot;&gt;Each Section&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=50;fontColor=#7EA6E0;" vertex="1" parent="_15LmRB4a6UN6HwErNP7-1">
           <mxGeometry x="-745" y="350" width="210" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="OJ0LmaB8d3xh1mvbkeeh-0" value="Teach Others" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=50;fontColor=#7EA6E0;" vertex="1" parent="_15LmRB4a6UN6HwErNP7-1">
-          <mxGeometry x="270" y="480" width="310" height="70" as="geometry" />
+        <mxCell id="OJ0LmaB8d3xh1mvbkeeh-0" value="Teach Others on medium" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=50;fontColor=#7EA6E0;" vertex="1" parent="_15LmRB4a6UN6HwErNP7-1">
+          <mxGeometry x="140" y="480" width="570" height="70" as="geometry" />
         </mxCell>
         <mxCell id="OJ0LmaB8d3xh1mvbkeeh-1" value="scientific method" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=50;fontColor=#7EA6E0;" vertex="1" parent="_15LmRB4a6UN6HwErNP7-1">
           <mxGeometry x="-760" y="750" width="390" height="70" as="geometry" />
@@ -331,6 +331,12 @@
         </mxCell>
         <mxCell id="OJ0LmaB8d3xh1mvbkeeh-3" value="a senior&#39;s level approach" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=50;fontColor=#7EA6E0;" vertex="1" parent="_15LmRB4a6UN6HwErNP7-1">
           <mxGeometry x="-200" y="750" width="570" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lYxvulbgFfjrBahU7QrG-0" value="optional but highly recommended" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=50;fontColor=#7EA6E0;" vertex="1" parent="_15LmRB4a6UN6HwErNP7-1">
+          <mxGeometry y="410" width="750" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lYxvulbgFfjrBahU7QrG-1" value="Extra Credit" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=50;fontColor=#7EA6E0;" vertex="1" parent="_15LmRB4a6UN6HwErNP7-1">
+          <mxGeometry x="340" y="550" width="280" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
