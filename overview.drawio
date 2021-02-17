@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-17T00:28:05.001Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="O8Q-IugwAAWEl6ZtM6GY" version="14.3.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-17T00:33:55.082Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="ZqiDM1q_40WA_iKpABbt" version="14.3.1" type="github" pages="2">
   <diagram id="4R_qcKYH2vp2XVqdwSuo" name="Course Structure">
     <mxGraphModel dx="2758" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -249,8 +249,11 @@
       <root>
         <mxCell id="_15LmRB4a6UN6HwErNP7-0" />
         <mxCell id="_15LmRB4a6UN6HwErNP7-1" parent="_15LmRB4a6UN6HwErNP7-0" />
-        <mxCell id="Is89FpDxSNqgkOE3bMJb-0" value="&lt;u&gt;Senior&lt;/u&gt; Frontend Engineers" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=50;fontColor=#00CC00;fontStyle=1" vertex="1" parent="_15LmRB4a6UN6HwErNP7-1">
-          <mxGeometry x="-590" y="240" width="660" height="70" as="geometry" />
+        <mxCell id="p8J0iuqBpEWRt1dYp2CT-17" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=50;fontColor=#7EA6E0;" vertex="1" parent="_15LmRB4a6UN6HwErNP7-1">
+          <mxGeometry x="-760" y="360" width="980" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="Is89FpDxSNqgkOE3bMJb-0" value="&lt;font color=&quot;#3399ff&quot;&gt;&lt;u&gt;Senior&lt;/u&gt; Frontend Engineers&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=50;fontColor=#00CC00;fontStyle=1" vertex="1" parent="_15LmRB4a6UN6HwErNP7-1">
+          <mxGeometry x="-600" y="240" width="660" height="70" as="geometry" />
         </mxCell>
         <mxCell id="p8J0iuqBpEWRt1dYp2CT-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=50;fontColor=#7EA6E0;" edge="1" parent="_15LmRB4a6UN6HwErNP7-1" source="p8J0iuqBpEWRt1dYp2CT-0" target="p8J0iuqBpEWRt1dYp2CT-1">
           <mxGeometry relative="1" as="geometry" />
@@ -281,14 +284,17 @@
         <mxCell id="p8J0iuqBpEWRt1dYp2CT-3" value="Explanations" style="whiteSpace=wrap;html=1;fontSize=33;" vertex="1" parent="_15LmRB4a6UN6HwErNP7-1">
           <mxGeometry x="-100" y="460" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="p8J0iuqBpEWRt1dYp2CT-9" value="&lt;font style=&quot;font-size: 20px&quot;&gt;MDN&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=33;" vertex="1" parent="_15LmRB4a6UN6HwErNP7-1">
-          <mxGeometry x="-630" y="645" width="140" height="115" as="geometry" />
+        <mxCell id="p8J0iuqBpEWRt1dYp2CT-9" value="&lt;font style=&quot;font-size: 20px&quot; color=&quot;#00cc00&quot;&gt;Comprehensive&lt;br&gt;(MDN)&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=33;" vertex="1" parent="_15LmRB4a6UN6HwErNP7-1">
+          <mxGeometry x="-655" y="645" width="190" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="p8J0iuqBpEWRt1dYp2CT-11" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Problems and &lt;br&gt;Solutions&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=33;" vertex="1" parent="_15LmRB4a6UN6HwErNP7-1">
+        <mxCell id="p8J0iuqBpEWRt1dYp2CT-11" value="&lt;font style=&quot;font-size: 20px&quot; color=&quot;#00cc00&quot;&gt;Problems and &lt;br&gt;Solutions&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=33;" vertex="1" parent="_15LmRB4a6UN6HwErNP7-1">
           <mxGeometry x="-380" y="645" width="195" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="p8J0iuqBpEWRt1dYp2CT-14" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Detailed and &lt;br&gt;Easy to follow&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=33;" vertex="1" parent="_15LmRB4a6UN6HwErNP7-1">
+        <mxCell id="p8J0iuqBpEWRt1dYp2CT-14" value="&lt;font style=&quot;font-size: 20px&quot; color=&quot;#00cc00&quot;&gt;Detailed and &lt;br&gt;Easy to follow&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=33;" vertex="1" parent="_15LmRB4a6UN6HwErNP7-1">
           <mxGeometry x="-92.5" y="645" width="205" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="p8J0iuqBpEWRt1dYp2CT-18" value="&lt;b&gt;&lt;font style=&quot;font-size: 33px&quot; color=&quot;#00cc00&quot;&gt;Each Section&lt;/font&gt;&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=50;fontColor=#7EA6E0;" vertex="1" parent="_15LmRB4a6UN6HwErNP7-1">
+          <mxGeometry x="-750" y="350" width="220" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
