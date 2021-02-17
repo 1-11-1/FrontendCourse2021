@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-17T00:37:06.290Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="C6KS86Q4QJMTBA0Kgvt1" version="14.3.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-17T00:37:25.863Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="Et8OF8AyU_t3vmEwWwkp" version="14.3.1" type="github" pages="2">
   <diagram id="4R_qcKYH2vp2XVqdwSuo" name="Course Structure">
     <mxGraphModel dx="2758" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -249,7 +249,7 @@
       <root>
         <mxCell id="_15LmRB4a6UN6HwErNP7-0" />
         <mxCell id="_15LmRB4a6UN6HwErNP7-1" parent="_15LmRB4a6UN6HwErNP7-0" />
-        <mxCell id="p8J0iuqBpEWRt1dYp2CT-17" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=50;fontColor=#7EA6E0;" vertex="1" parent="_15LmRB4a6UN6HwErNP7-1">
+        <mxCell id="p8J0iuqBpEWRt1dYp2CT-17" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=50;fontColor=#7EA6E0;" vertex="1" parent="_15LmRB4a6UN6HwErNP7-1">
           <mxGeometry x="-760" y="360" width="980" height="460" as="geometry" />
         </mxCell>
         <mxCell id="Is89FpDxSNqgkOE3bMJb-0" value="&lt;font color=&quot;#3399ff&quot;&gt;&lt;u&gt;Senior&lt;/u&gt; Frontend Engineers&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=50;fontColor=#00CC00;fontStyle=1" vertex="1" parent="_15LmRB4a6UN6HwErNP7-1">
