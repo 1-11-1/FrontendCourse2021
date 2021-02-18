@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-18T00:14:12.498Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="eOZV_54US4TD5KAFVzou" version="14.3.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-02-18T00:15:04.986Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="siU4FEoTluJh6fD9uR4d" version="14.3.1" type="github" pages="3">
   <diagram id="4R_qcKYH2vp2XVqdwSuo" name="Course Structure">
     <mxGraphModel dx="2758" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -194,10 +194,10 @@
         <mxCell id="fHqbNgTdYfObKPC5MYDj-1" value="&lt;b&gt;Focus = JS&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=25;fontColor=#00CC00;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
           <mxGeometry x="1345" y="367.5" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fHqbNgTdYfObKPC5MYDj-6" value="Local Code Editor = &lt;b&gt;VS Code&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=50;fontColor=#7EA6E0;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
+        <mxCell id="fHqbNgTdYfObKPC5MYDj-6" value="&lt;u&gt;Local&lt;/u&gt; Code Editor = &lt;b&gt;VS Code&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=50;fontColor=#7EA6E0;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
           <mxGeometry x="3520" y="160" width="680" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="fHqbNgTdYfObKPC5MYDj-7" value="Browser Code Editor: &lt;b&gt;Codepen&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=50;fontColor=#7EA6E0;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
+        <mxCell id="fHqbNgTdYfObKPC5MYDj-7" value="&lt;u&gt;Browser&lt;/u&gt; Code Editor: &lt;b&gt;Codepen&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=50;fontColor=#7EA6E0;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
           <mxGeometry x="480" y="160" width="720" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TfmDwBWj1Bs_RD6whkMs-0" value="College Interns" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=30;fontColor=#FF9933;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
