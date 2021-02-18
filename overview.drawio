@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-18T00:15:04.986Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="siU4FEoTluJh6fD9uR4d" version="14.3.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-02-18T00:18:23.385Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="S310-o2XMRYhcpWReLK3" version="14.3.1" type="github" pages="3">
   <diagram id="4R_qcKYH2vp2XVqdwSuo" name="Course Structure">
     <mxGraphModel dx="2758" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -194,10 +194,10 @@
         <mxCell id="fHqbNgTdYfObKPC5MYDj-1" value="&lt;b&gt;Focus = JS&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=25;fontColor=#00CC00;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
           <mxGeometry x="1345" y="367.5" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fHqbNgTdYfObKPC5MYDj-6" value="&lt;u&gt;Local&lt;/u&gt; Code Editor = &lt;b&gt;VS Code&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=50;fontColor=#7EA6E0;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
+        <mxCell id="fHqbNgTdYfObKPC5MYDj-6" value="Local Code Editor = &lt;b&gt;VS Code&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=50;fontColor=#7EA6E0;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
           <mxGeometry x="3520" y="160" width="680" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="fHqbNgTdYfObKPC5MYDj-7" value="&lt;u&gt;Browser&lt;/u&gt; Code Editor: &lt;b&gt;Codepen&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=50;fontColor=#7EA6E0;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
+        <mxCell id="fHqbNgTdYfObKPC5MYDj-7" value="Browser Code Editor: &lt;b&gt;Codepen&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=50;fontColor=#7EA6E0;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
           <mxGeometry x="480" y="160" width="720" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TfmDwBWj1Bs_RD6whkMs-0" value="College Interns" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=30;fontColor=#FF9933;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
@@ -234,22 +234,28 @@
         <mxCell id="1jKdfpdQdBnTuT6qvfLE-45" value="Service Workers" style="rhombus;whiteSpace=wrap;html=1;fontSize=32;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
           <mxGeometry x="3520" y="460" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1jKdfpdQdBnTuT6qvfLE-47" value="Blockchains" style="whiteSpace=wrap;html=1;fontSize=33;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
+        <mxCell id="1jKdfpdQdBnTuT6qvfLE-47" value="Machine Learning" style="whiteSpace=wrap;html=1;fontSize=29;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
           <mxGeometry x="3840" y="290" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1jKdfpdQdBnTuT6qvfLE-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=33;" edge="1" parent="aols-5rolXVkZ8xjvUyL-1" source="1jKdfpdQdBnTuT6qvfLE-43" target="1jKdfpdQdBnTuT6qvfLE-47">
           <mxGeometry x="3440" y="290" as="geometry" />
         </mxCell>
-        <mxCell id="1jKdfpdQdBnTuT6qvfLE-49" value="Web3.js" style="rhombus;whiteSpace=wrap;html=1;fontSize=33;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
+        <mxCell id="1jKdfpdQdBnTuT6qvfLE-49" value="TensorFlow.js" style="rhombus;whiteSpace=wrap;html=1;fontSize=33;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
           <mxGeometry x="3840" y="460" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1jKdfpdQdBnTuT6qvfLE-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=33;" edge="1" parent="aols-5rolXVkZ8xjvUyL-1" source="1jKdfpdQdBnTuT6qvfLE-45" target="1jKdfpdQdBnTuT6qvfLE-49">
           <mxGeometry x="3440" y="290" as="geometry" />
         </mxCell>
-        <mxCell id="1jKdfpdQdBnTuT6qvfLE-51" value="Google Domains" style="whiteSpace=wrap;html=1;fontSize=31;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
+        <mxCell id="iijJy2_k3Wh-O8BBRQpY-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=28;fontColor=#FF9933;" edge="1" parent="aols-5rolXVkZ8xjvUyL-1" source="1jKdfpdQdBnTuT6qvfLE-51" target="iijJy2_k3Wh-O8BBRQpY-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1jKdfpdQdBnTuT6qvfLE-51" value="Blockchains" style="whiteSpace=wrap;html=1;fontSize=31;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
           <mxGeometry x="4160" y="290" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1jKdfpdQdBnTuT6qvfLE-53" value="GitHub Pages" style="rhombus;whiteSpace=wrap;html=1;fontSize=33;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
+        <mxCell id="iijJy2_k3Wh-O8BBRQpY-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=28;fontColor=#FF9933;" edge="1" parent="aols-5rolXVkZ8xjvUyL-1" source="1jKdfpdQdBnTuT6qvfLE-53" target="iijJy2_k3Wh-O8BBRQpY-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1jKdfpdQdBnTuT6qvfLE-53" value="Web3.js" style="rhombus;whiteSpace=wrap;html=1;fontSize=33;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
           <mxGeometry x="4160" y="460" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="b3wBOoB6xnVNWMgdpQj5-8" value="&lt;span&gt;Bonus&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=25;fontColor=#00CC00;fontStyle=0" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
@@ -272,6 +278,12 @@
         </mxCell>
         <mxCell id="iijJy2_k3Wh-O8BBRQpY-14" value="Section 9" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=25;fontColor=#00CC00;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
           <mxGeometry x="2940" y="385" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iijJy2_k3Wh-O8BBRQpY-16" value="Google Domains" style="whiteSpace=wrap;html=1;fontSize=31;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
+          <mxGeometry x="4480" y="290" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iijJy2_k3Wh-O8BBRQpY-18" value="GitHub Pages" style="rhombus;whiteSpace=wrap;html=1;fontSize=33;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
+          <mxGeometry x="4480" y="460" width="240" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
