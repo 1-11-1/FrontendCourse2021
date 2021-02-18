@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-18T00:39:11.406Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="wXxKBZHo7P_mlwvls23-" version="14.3.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-02-18T00:49:20.589Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="y8QJNVGMlMZWx_PpkeF_" version="14.3.1" type="github" pages="3">
   <diagram id="4R_qcKYH2vp2XVqdwSuo" name="Course Structure">
     <mxGraphModel dx="2758" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -291,11 +291,35 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="PlNKurSP6qflPr-5nfac" name="Page-3">
-    <mxGraphModel dx="1398" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="PlNKurSP6qflPr-5nfac" name="Pedagogy">
+    <mxGraphModel dx="1558" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="b6WosxrlXobKB1DpbW5K-0" />
         <mxCell id="b6WosxrlXobKB1DpbW5K-1" parent="b6WosxrlXobKB1DpbW5K-0" />
+        <mxCell id="IcOEBJgiHppdrRuGzz-3-0" value="&lt;b&gt;&lt;u&gt;How You Will Learn&lt;/u&gt;&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=50;fontColor=#7EA6E0;" vertex="1" parent="b6WosxrlXobKB1DpbW5K-1">
+          <mxGeometry x="235" y="60" width="480" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="S0uparPsEf_w8CmD9rdN-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontSize=29;fontColor=#00CC00;" edge="1" parent="b6WosxrlXobKB1DpbW5K-1" source="S0uparPsEf_w8CmD9rdN-0" target="S0uparPsEf_w8CmD9rdN-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S0uparPsEf_w8CmD9rdN-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=29;fontColor=#00CC00;" edge="1" parent="b6WosxrlXobKB1DpbW5K-1" source="S0uparPsEf_w8CmD9rdN-5" target="S0uparPsEf_w8CmD9rdN-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S0uparPsEf_w8CmD9rdN-0" value="1. &lt;b&gt;Don&#39;t Know&lt;/b&gt; that You &lt;b&gt;Don&#39;t Know&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontSize=33;fontStyle=0" vertex="1" parent="b6WosxrlXobKB1DpbW5K-1">
+          <mxGeometry x="320" y="180" width="310" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="S0uparPsEf_w8CmD9rdN-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=29;fontColor=#00CC00;" edge="1" parent="b6WosxrlXobKB1DpbW5K-1" source="S0uparPsEf_w8CmD9rdN-1" target="S0uparPsEf_w8CmD9rdN-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S0uparPsEf_w8CmD9rdN-1" value="2. &lt;b&gt;Know&lt;/b&gt; that &lt;br&gt;You &lt;b&gt;Don&#39;t Know&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontSize=33;fontStyle=0" vertex="1" parent="b6WosxrlXobKB1DpbW5K-1">
+          <mxGeometry x="320" y="370" width="310" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="S0uparPsEf_w8CmD9rdN-3" value="3. &lt;b&gt;Know&lt;/b&gt; that &lt;br&gt;You &lt;b&gt;Know&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontSize=33;fontStyle=0" vertex="1" parent="b6WosxrlXobKB1DpbW5K-1">
+          <mxGeometry x="320" y="560" width="310" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="S0uparPsEf_w8CmD9rdN-5" value="Complete Beginners" style="whiteSpace=wrap;html=1;fontSize=25;fontStyle=0" vertex="1" parent="b6WosxrlXobKB1DpbW5K-1">
+          <mxGeometry x="-30" y="200" width="250" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
