@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-18T22:57:12.204Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="CD0EtRo5h0UyMcOozr5q" version="14.3.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-02-18T23:00:47.195Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="i2PHSfYYXVogBidaLqpR" version="14.3.1" type="github" pages="3">
   <diagram id="4R_qcKYH2vp2XVqdwSuo" name="Course Structure">
     <mxGraphModel dx="2758" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -473,6 +473,12 @@
         </mxCell>
         <mxCell id="1jIKXPyt4c-reQlKb00V-8" value="&lt;font color=&quot;#ff8000&quot;&gt;Effort&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=27;fontColor=#FF6666;horizontal=0;" vertex="1" parent="1jIKXPyt4c-reQlKb00V-11">
           <mxGeometry y="170" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1jIKXPyt4c-reQlKb00V-12" value="&lt;b&gt;Why&lt;/b&gt; and &lt;b&gt;When&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=20;fontColor=#FF8000;" vertex="1" parent="b6WosxrlXobKB1DpbW5K-1">
+          <mxGeometry x="15" y="735" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1jIKXPyt4c-reQlKb00V-13" value="&lt;font color=&quot;#ff8000&quot;&gt;&lt;b&gt;What&lt;/b&gt; and &lt;b&gt;How&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=20;fontColor=#FF6666;" vertex="1" parent="b6WosxrlXobKB1DpbW5K-1">
+          <mxGeometry x="20" y="545" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
