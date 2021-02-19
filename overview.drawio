@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-19T00:00:32.065Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="ofnncr6sq9sYPUJR8jsH" version="14.3.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-02-19T00:01:08.164Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="21dWLPj-7CQluP4kf2C9" version="14.3.1" type="github" pages="3">
   <diagram id="4R_qcKYH2vp2XVqdwSuo" name="Course Structure">
     <mxGraphModel dx="2757" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -615,8 +615,8 @@
         <mxCell id="WL-1K36X0rkYNcC7U4Ag-0" value="&lt;b&gt;Older/Longer&lt;/b&gt; Way =&amp;gt; &lt;b&gt;Newer/Faste&lt;/b&gt;r Way" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=20;fontColor=#FF8000;" vertex="1" parent="_15LmRB4a6UN6HwErNP7-1">
           <mxGeometry x="-760" y="860" width="390" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hzC7S-Ra8dCphwzVax7Y-0" value="&lt;b&gt;Contrasts &lt;/b&gt;and&lt;b&gt; Tradeoffs = Best Practices&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=20;fontColor=#FF8000;" vertex="1" parent="_15LmRB4a6UN6HwErNP7-1">
-          <mxGeometry x="-190" y="860" width="400" height="30" as="geometry" />
+        <mxCell id="hzC7S-Ra8dCphwzVax7Y-0" value="&lt;b&gt;Contrasts &lt;/b&gt;and&lt;b&gt; Tradeoffs &lt;/b&gt;=&amp;gt;&lt;b&gt; Best Practices&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=20;fontColor=#FF8000;" vertex="1" parent="_15LmRB4a6UN6HwErNP7-1">
+          <mxGeometry x="-200" y="860" width="420" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ErEYsHPqZ5xucdFcyCue-0" value="&lt;b&gt;Readability, Performance, Security&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=20;fontColor=#FF8000;" vertex="1" parent="_15LmRB4a6UN6HwErNP7-1">
           <mxGeometry x="-160" y="910" width="340" height="30" as="geometry" />
