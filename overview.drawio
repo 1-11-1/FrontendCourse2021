@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-19T00:01:08.164Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="21dWLPj-7CQluP4kf2C9" version="14.3.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-02-19T00:02:28.166Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="fwQPdF0Ca9DVyUG-rHpD" version="14.3.1" type="github" pages="3">
   <diagram id="4R_qcKYH2vp2XVqdwSuo" name="Course Structure">
     <mxGraphModel dx="2757" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -321,8 +321,8 @@
             <mxPoint x="-50" y="367.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sapFgwP4-ws9r2IPWm8r-0" value="Good for Biz = Cost Savings&lt;br&gt;Good for Users = Privacy" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=25;fontStyle=0;fontColor=#FF9999;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
-          <mxGeometry x="3795" y="560" width="330" height="70" as="geometry" />
+        <mxCell id="sapFgwP4-ws9r2IPWm8r-0" value="Good for Biz = Cost Savings&lt;br style=&quot;font-size: 20px;&quot;&gt;Good for Users = Privacy" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontStyle=0;fontColor=#3399FF;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
+          <mxGeometry x="3825" y="560" width="270" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
