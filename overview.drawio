@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-19T01:53:55.754Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="oqNHUft0Ea28ClkpGumW" version="14.3.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-02-19T02:00:30.785Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="Jcaf-GJ7S9ZOIt0-U4OQ" version="14.3.1" type="github" pages="3">
   <diagram id="4R_qcKYH2vp2XVqdwSuo" name="Course Structure">
     <mxGraphModel dx="2757" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -345,8 +345,8 @@
         <mxCell id="N21ibdtsY8MG0RIo9o9P-7" value="Building Blocks" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#3399FF;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
           <mxGeometry x="1645" y="405" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N21ibdtsY8MG0RIo9o9P-8" value="Scope =&amp;gt; Encapsulation" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#3399FF;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
-          <mxGeometry x="1925" y="405" width="230" height="30" as="geometry" />
+        <mxCell id="N21ibdtsY8MG0RIo9o9P-8" value="Actions (Scoped)" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#3399FF;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
+          <mxGeometry x="1955" y="405" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="N21ibdtsY8MG0RIo9o9P-9" value="Lists of Data" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#3399FF;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
           <mxGeometry x="2295" y="405" width="130" height="30" as="geometry" />
@@ -354,8 +354,8 @@
         <mxCell id="N21ibdtsY8MG0RIo9o9P-10" value="Dictionaries of Data" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#3399FF;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
           <mxGeometry x="2585" y="405" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N21ibdtsY8MG0RIo9o9P-11" value="Custom Elements" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#3399FF;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
-          <mxGeometry x="2905" y="405" width="170" height="30" as="geometry" />
+        <mxCell id="N21ibdtsY8MG0RIo9o9P-11" value="Custom Elements (Encapsulated)" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#3399FF;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
+          <mxGeometry x="2835" y="405" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="N21ibdtsY8MG0RIo9o9P-12" value="Libraries" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#3399FF;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
           <mxGeometry x="3595" y="405" width="90" height="30" as="geometry" />
@@ -383,6 +383,9 @@
         </mxCell>
         <mxCell id="G9QpwuHQuKTee4wvf9aK-8" value="Letters |&amp;nbsp;&lt;b&gt;Notes&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF6666;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
           <mxGeometry x="1640" y="250" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G9QpwuHQuKTee4wvf9aK-12" value="Say Letters |&amp;nbsp;&lt;b&gt;Play Notes&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF6666;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
+          <mxGeometry x="1915" y="250" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
