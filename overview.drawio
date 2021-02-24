@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T00:04:09.368Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="srgnvKwuuUyUDL2OVWC2" version="14.3.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-02-24T00:37:28.297Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="kNBeNkg-Kl2xJVdBOcxE" version="14.3.1" type="github" pages="3">
   <diagram id="4R_qcKYH2vp2XVqdwSuo" name="Course Structure">
-    <mxGraphModel dx="2757" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2997" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="aols-5rolXVkZ8xjvUyL-0" />
         <mxCell id="aols-5rolXVkZ8xjvUyL-1" parent="aols-5rolXVkZ8xjvUyL-0" />
@@ -255,14 +255,14 @@
         <mxCell id="1jKdfpdQdBnTuT6qvfLE-53" value="Web3.js" style="rhombus;whiteSpace=wrap;html=1;fontSize=33;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
           <mxGeometry x="4160" y="460" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="b3wBOoB6xnVNWMgdpQj5-8" value="&lt;span&gt;Bonus&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=25;fontColor=#00CC00;fontStyle=0" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
-          <mxGeometry x="3595" y="365" width="90" height="40" as="geometry" />
+        <mxCell id="b3wBOoB6xnVNWMgdpQj5-8" value="&lt;span&gt;Bonus 1&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=25;fontColor=#00CC00;fontStyle=0" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
+          <mxGeometry x="3585" y="365" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="b3wBOoB6xnVNWMgdpQj5-10" value="&lt;span&gt;Bonus&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=25;fontColor=#00CC00;fontStyle=0" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
-          <mxGeometry x="3915" y="365" width="90" height="40" as="geometry" />
+        <mxCell id="b3wBOoB6xnVNWMgdpQj5-10" value="&lt;span&gt;Bonus 2&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=25;fontColor=#00CC00;fontStyle=0" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
+          <mxGeometry x="3905" y="365" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="b3wBOoB6xnVNWMgdpQj5-11" value="&lt;span&gt;Bonus&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=25;fontColor=#00CC00;fontStyle=0" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
-          <mxGeometry x="4235" y="367.5" width="90" height="40" as="geometry" />
+        <mxCell id="b3wBOoB6xnVNWMgdpQj5-11" value="&lt;span&gt;Bonus 3&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=25;fontColor=#00CC00;fontStyle=0" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
+          <mxGeometry x="4225" y="367.5" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1jKdfpdQdBnTuT6qvfLE-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=33;" edge="1" parent="aols-5rolXVkZ8xjvUyL-1" source="1jKdfpdQdBnTuT6qvfLE-47" target="1jKdfpdQdBnTuT6qvfLE-51">
           <mxGeometry x="3440" y="290" as="geometry" />
@@ -282,8 +282,8 @@
         <mxCell id="iijJy2_k3Wh-O8BBRQpY-18" value="GitHub Pages" style="rhombus;whiteSpace=wrap;html=1;fontSize=33;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
           <mxGeometry x="4480" y="460" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iijJy2_k3Wh-O8BBRQpY-20" value="&lt;span&gt;Bonus&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=25;fontColor=#00CC00;fontStyle=0" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
-          <mxGeometry x="4555" y="365" width="90" height="40" as="geometry" />
+        <mxCell id="iijJy2_k3Wh-O8BBRQpY-20" value="&lt;span&gt;Bonus 4&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=25;fontColor=#00CC00;fontStyle=0" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
+          <mxGeometry x="4545" y="365" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k8zvswtgXm5w8ybXeZzE-0" value="&lt;b&gt;Frontend&lt;/b&gt; = Client (Browser)" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=25;fontStyle=0;fontColor=#FF8000;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
           <mxGeometry x="3140" y="402.5" width="330" height="40" as="geometry" />
@@ -565,7 +565,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Gh55axfkEm-xZD-oqk3l" name="Section Structure">
-    <mxGraphModel dx="1957" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2197" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="_15LmRB4a6UN6HwErNP7-0" />
         <mxCell id="_15LmRB4a6UN6HwErNP7-1" parent="_15LmRB4a6UN6HwErNP7-0" />
