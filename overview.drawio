@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T00:37:28.297Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="kNBeNkg-Kl2xJVdBOcxE" version="14.3.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-02-25T16:46:16.107Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="VQcvr9Nmcd7zXwVYRWAD" version="14.3.1" type="github" pages="3">
   <diagram id="4R_qcKYH2vp2XVqdwSuo" name="Course Structure">
     <mxGraphModel dx="2997" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -403,7 +403,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PlNKurSP6qflPr-5nfac" name="Pedagogy">
-    <mxGraphModel dx="1957" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2197" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="b6WosxrlXobKB1DpbW5K-0" />
         <mxCell id="b6WosxrlXobKB1DpbW5K-1" parent="b6WosxrlXobKB1DpbW5K-0" />
@@ -589,7 +589,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="p8J0iuqBpEWRt1dYp2CT-0" value="&lt;b&gt;Concepts&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontSize=33;" vertex="1" parent="_15LmRB4a6UN6HwErNP7-1">
+        <mxCell id="p8J0iuqBpEWRt1dYp2CT-0" value="&lt;b&gt;DS =&amp;gt; Algo&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontSize=33;" vertex="1" parent="_15LmRB4a6UN6HwErNP7-1">
           <mxGeometry x="-660" y="460" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="p8J0iuqBpEWRt1dYp2CT-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;fontSize=50;fontColor=#7EA6E0;" edge="1" parent="_15LmRB4a6UN6HwErNP7-1" source="p8J0iuqBpEWRt1dYp2CT-1" target="p8J0iuqBpEWRt1dYp2CT-3">
