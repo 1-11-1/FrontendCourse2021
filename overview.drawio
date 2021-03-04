@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-04T00:48:06.669Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="7jiFAALYGsFtK8i4rDBA" version="14.3.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-04T00:53:18.499Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="5HBxep_mmd0Htotv5OlI" version="14.3.1" type="github" pages="3">
   <diagram id="4R_qcKYH2vp2XVqdwSuo" name="Course Structure">
     <mxGraphModel dx="2997" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -401,6 +401,9 @@
         </mxCell>
         <mxCell id="5CTyVqE6zgE68sqDR22Z-0" value="&lt;b&gt;Full Stack&lt;br&gt;&lt;/b&gt;Micro-frontends + Micro-services" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=25;fontStyle=0;fontColor=#FF9999;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
           <mxGeometry x="3130" y="530" width="380" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5CTyVqE6zgE68sqDR22Z-1" value="Web Audio API" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=25;fontStyle=0;fontColor=#FF9999;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
+          <mxGeometry x="1330" y="520" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
