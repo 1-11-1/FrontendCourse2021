@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-04T23:43:27.574Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="H2OjSX_dT0rGU6mNsMv8" version="14.3.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-04T23:48:25.197Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="6lUs-XKSs0XzBzu1ruV3" version="14.3.1" type="github" pages="3">
   <diagram id="4R_qcKYH2vp2XVqdwSuo" name="Course Structure">
     <mxGraphModel dx="2997" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -387,17 +387,17 @@
         <mxCell id="G9QpwuHQuKTee4wvf9aK-12" value="Say Letters |&amp;nbsp;&lt;b&gt;Play Notes&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF6666;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
           <mxGeometry x="1915" y="250" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G9QpwuHQuKTee4wvf9aK-13" value="Virtual Piano + Sheet" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF6666;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
-          <mxGeometry x="200" y="250" width="200" height="30" as="geometry" />
+        <mxCell id="G9QpwuHQuKTee4wvf9aK-13" value="Virtual Piano + Music Sheet" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF6666;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
+          <mxGeometry x="170" y="250" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G9QpwuHQuKTee4wvf9aK-14" value="Piano UI" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF6666;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
           <mxGeometry x="535" y="250" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G9QpwuHQuKTee4wvf9aK-15" value="Piano + Sheet" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF6666;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
-          <mxGeometry x="1070" y="250" width="140" height="30" as="geometry" />
+        <mxCell id="G9QpwuHQuKTee4wvf9aK-15" value="Piano + Music Sheet" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF6666;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
+          <mxGeometry x="1040" y="250" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G9QpwuHQuKTee4wvf9aK-16" value="Sheet UI" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF6666;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
-          <mxGeometry x="815" y="250" width="90" height="30" as="geometry" />
+        <mxCell id="G9QpwuHQuKTee4wvf9aK-16" value="Music Sheet UI" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF6666;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
+          <mxGeometry x="785" y="250" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5CTyVqE6zgE68sqDR22Z-0" value="&lt;b&gt;(Micro) Full Stack&lt;br&gt;&lt;/b&gt;Micro-frontends + Micro-services" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=25;fontStyle=0;fontColor=#FF8000;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
           <mxGeometry x="3130" y="530" width="380" height="70" as="geometry" />
