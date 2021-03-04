@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-04T17:47:17.662Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="s6JKF4kq-0mYcIilHFwf" version="14.3.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-03-04T17:51:34.786Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="eGGII7dSmvufXq4ZWsgo" version="14.3.1" type="github" pages="3">
   <diagram id="4R_qcKYH2vp2XVqdwSuo" name="Course Structure">
     <mxGraphModel dx="2757" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -372,14 +372,14 @@
         <mxCell id="G9QpwuHQuKTee4wvf9aK-2" value="Words |&amp;nbsp;&lt;b&gt;Scales&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF6666;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
           <mxGeometry x="2275" y="250" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G9QpwuHQuKTee4wvf9aK-4" value="Sentences |&amp;nbsp;&lt;b&gt;Melodies&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF6666;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
-          <mxGeometry x="2575" y="250" width="210" height="30" as="geometry" />
+        <mxCell id="G9QpwuHQuKTee4wvf9aK-4" value="Sentences |&amp;nbsp;&lt;b&gt;Melodies + Harmonies&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF6666;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
+          <mxGeometry x="2510" y="250" width="340" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G9QpwuHQuKTee4wvf9aK-5" value="Essays | &lt;b&gt;Harmonies&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF6666;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
-          <mxGeometry x="2895" y="250" width="200" height="30" as="geometry" />
+        <mxCell id="G9QpwuHQuKTee4wvf9aK-5" value="Essays | &lt;b&gt;Songs&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF6666;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
+          <mxGeometry x="2915" y="250" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G9QpwuHQuKTee4wvf9aK-6" value="Books/Libraries | &lt;b&gt;Songs&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF6666;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
-          <mxGeometry x="3525" y="250" width="230" height="30" as="geometry" />
+        <mxCell id="G9QpwuHQuKTee4wvf9aK-6" value="Books/Libraries | &lt;b&gt;Albums&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF6666;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
+          <mxGeometry x="3520" y="250" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G9QpwuHQuKTee4wvf9aK-8" value="Alphabet Letters | &lt;b&gt;Musical&lt;/b&gt;&amp;nbsp;&lt;b&gt;Notes&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF6666;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
           <mxGeometry x="1560" y="250" width="310" height="30" as="geometry" />
@@ -426,8 +426,8 @@
         <mxCell id="65t6kAPfW_sh5eBxLka0-0" value="(External Piano Keyboard)" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF9999;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
           <mxGeometry x="3515" y="432" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="65t6kAPfW_sh5eBxLka0-1" value="(Piano and Vocal Notes)" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF9999;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
-          <mxGeometry x="3845" y="430" width="230" height="30" as="geometry" />
+        <mxCell id="65t6kAPfW_sh5eBxLka0-1" value="(Piano + Vocal Notes)" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF9999;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
+          <mxGeometry x="3855" y="430" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CBm5X-MRPVPdql6ot7Xl-0" value="&lt;font color=&quot;#ff9999&quot;&gt;(Sight Reading)&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#3399FF;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
           <mxGeometry x="2285" y="560" width="150" height="30" as="geometry" />
@@ -604,7 +604,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Gh55axfkEm-xZD-oqk3l" name="Section Structure">
-    <mxGraphModel dx="2197" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1957" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="_15LmRB4a6UN6HwErNP7-0" />
         <mxCell id="_15LmRB4a6UN6HwErNP7-1" parent="_15LmRB4a6UN6HwErNP7-0" />
@@ -743,17 +743,6 @@
         </mxCell>
         <mxCell id="4n3X7G0HIx0nY0sKZiES-1" value="Pseudocode" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=20;fontColor=#FF6666;" vertex="1" parent="_15LmRB4a6UN6HwErNP7-1">
           <mxGeometry x="8.75" y="585" width="130" height="30" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="q0-8a1jUSfiWmVxbnRCJ" name="Page-4">
-    <mxGraphModel dx="-2243" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="XnBgXK0WRTJXb8bvKWg6-0" />
-        <mxCell id="XnBgXK0WRTJXb8bvKWg6-1" parent="XnBgXK0WRTJXb8bvKWg6-0" />
-        <mxCell id="XnBgXK0WRTJXb8bvKWg6-2" value="Sight Reading&lt;br&gt;Piano Playiing&lt;br&gt;Ear Training&lt;br&gt;Voicing Training" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF6666;" vertex="1" parent="XnBgXK0WRTJXb8bvKWg6-1">
-          <mxGeometry x="3710" y="195" width="160" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
