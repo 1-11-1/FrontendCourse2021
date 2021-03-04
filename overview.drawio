@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-04T23:48:25.197Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="6lUs-XKSs0XzBzu1ruV3" version="14.3.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-04T23:53:13.744Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="TMKdMniG09dwYbddW8XL" version="14.3.1" type="github" pages="3">
   <diagram id="4R_qcKYH2vp2XVqdwSuo" name="Course Structure">
     <mxGraphModel dx="2997" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -406,7 +406,7 @@
           <mxGeometry x="1330" y="520" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5CTyVqE6zgE68sqDR22Z-3" value="&lt;font color=&quot;#ff9999&quot;&gt;Computer Keyboard Piano&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#3399FF;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
-          <mxGeometry x="1590" y="550" width="250" height="30" as="geometry" />
+          <mxGeometry x="1595" y="550" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5CTyVqE6zgE68sqDR22Z-4" value="IPFS" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF8000;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
           <mxGeometry x="4250" y="600" width="60" height="30" as="geometry" />
@@ -423,8 +423,8 @@
         <mxCell id="5CTyVqE6zgE68sqDR22Z-8" value="NFT = Tradable" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF9999;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
           <mxGeometry x="4205" y="432" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="65t6kAPfW_sh5eBxLka0-0" value="Piano Training" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF9999;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
-          <mxGeometry x="3570" y="432" width="140" height="30" as="geometry" />
+        <mxCell id="65t6kAPfW_sh5eBxLka0-0" value="Keyboard Piano Training" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF9999;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
+          <mxGeometry x="3525" y="432" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="65t6kAPfW_sh5eBxLka0-1" value="Vocal Training" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF9999;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
           <mxGeometry x="3890" y="430" width="140" height="30" as="geometry" />
