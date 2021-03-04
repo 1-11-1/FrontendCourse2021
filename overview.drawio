@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-04T02:06:52.858Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="7ArYjPgQBajQVqPCIhXS" version="14.3.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-04T17:30:03.026Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="b3XiqkcZiimM1Y4yiqyn" version="14.3.1" type="github" pages="4">
   <diagram id="4R_qcKYH2vp2XVqdwSuo" name="Course Structure">
     <mxGraphModel dx="2757" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -360,11 +360,11 @@
         <mxCell id="N21ibdtsY8MG0RIo9o9P-12" value="Web MIDI API" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#3399FF;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
           <mxGeometry x="3570" y="405" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N21ibdtsY8MG0RIo9o9P-13" value="Generate Song Lessons" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#3399FF;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
-          <mxGeometry x="3845" y="405" width="230" height="30" as="geometry" />
+        <mxCell id="N21ibdtsY8MG0RIo9o9P-13" value="Detect Music Notes" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#3399FF;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
+          <mxGeometry x="3865" y="403" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N21ibdtsY8MG0RIo9o9P-14" value="Copyright Lesson Album" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#3399FF;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
-          <mxGeometry x="4165" y="404.5" width="230" height="30" as="geometry" />
+        <mxCell id="N21ibdtsY8MG0RIo9o9P-14" value="Copyright Songs" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#3399FF;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
+          <mxGeometry x="4200" y="404.5" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="N21ibdtsY8MG0RIo9o9P-15" value="FREE Hosting&lt;br&gt;Unlimited Subdomains" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#3399FF;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
           <mxGeometry x="4500" y="560" width="220" height="50" as="geometry" />
@@ -387,17 +387,17 @@
         <mxCell id="G9QpwuHQuKTee4wvf9aK-12" value="Say Letters |&amp;nbsp;&lt;b&gt;Play Notes&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF6666;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
           <mxGeometry x="1915" y="250" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G9QpwuHQuKTee4wvf9aK-13" value="Virtual Piano" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF6666;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
-          <mxGeometry x="235" y="250" width="130" height="30" as="geometry" />
+        <mxCell id="G9QpwuHQuKTee4wvf9aK-13" value="Virtual Piano + Sheet" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF6666;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
+          <mxGeometry x="200" y="250" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G9QpwuHQuKTee4wvf9aK-14" value="Piano UI" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF6666;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
           <mxGeometry x="525" y="250" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G9QpwuHQuKTee4wvf9aK-15" value="Interactive Piano" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF6666;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
-          <mxGeometry x="1055" y="250" width="160" height="30" as="geometry" />
+        <mxCell id="G9QpwuHQuKTee4wvf9aK-15" value="Interactive Piano + Sheet" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF6666;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
+          <mxGeometry x="1015" y="250" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G9QpwuHQuKTee4wvf9aK-16" value="Piano Website" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF6666;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
-          <mxGeometry x="795" y="250" width="140" height="30" as="geometry" />
+        <mxCell id="G9QpwuHQuKTee4wvf9aK-16" value="Piano UI + Sheet UI" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF6666;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
+          <mxGeometry x="770" y="250" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5CTyVqE6zgE68sqDR22Z-0" value="&lt;b&gt;(Micro) Full Stack&lt;br&gt;&lt;/b&gt;Micro-frontends + Micro-services" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=25;fontStyle=0;fontColor=#FF9999;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
           <mxGeometry x="3130" y="530" width="380" height="70" as="geometry" />
@@ -406,7 +406,7 @@
           <mxGeometry x="1330" y="520" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5CTyVqE6zgE68sqDR22Z-3" value="&lt;font color=&quot;#ff9999&quot;&gt;(Computer Keyboard Piano)&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#3399FF;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
-          <mxGeometry x="3510" y="427" width="260" height="30" as="geometry" />
+          <mxGeometry x="1585" y="550" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5CTyVqE6zgE68sqDR22Z-4" value="IPFS / Filecoin" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF9999;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
           <mxGeometry x="4205" y="600" width="150" height="30" as="geometry" />
@@ -420,8 +420,20 @@
         <mxCell id="5CTyVqE6zgE68sqDR22Z-7" value="Public Worldwide" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF6666;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
           <mxGeometry x="4515" y="250" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5CTyVqE6zgE68sqDR22Z-8" value="Smart Contract: NFT" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF9999;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
-          <mxGeometry x="4180" y="432" width="200" height="30" as="geometry" />
+        <mxCell id="5CTyVqE6zgE68sqDR22Z-8" value="(Smart Contract: NFT)" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF9999;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
+          <mxGeometry x="4175" y="432" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="65t6kAPfW_sh5eBxLka0-0" value="(External Piano)" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF9999;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
+          <mxGeometry x="3560" y="432" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="65t6kAPfW_sh5eBxLka0-1" value="(Piano and Vocal Notes)" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF9999;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
+          <mxGeometry x="3845" y="430" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CBm5X-MRPVPdql6ot7Xl-0" value="&lt;font color=&quot;#ff9999&quot;&gt;(Sight Reading)&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#3399FF;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
+          <mxGeometry x="2285" y="560" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CBm5X-MRPVPdql6ot7Xl-1" value="&lt;font color=&quot;#ff9999&quot;&gt;(Ear Training)&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#3399FF;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
+          <mxGeometry x="2610" y="560" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -728,6 +740,17 @@
         </mxCell>
         <mxCell id="4n3X7G0HIx0nY0sKZiES-1" value="Pseudocode" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=20;fontColor=#FF6666;" vertex="1" parent="_15LmRB4a6UN6HwErNP7-1">
           <mxGeometry x="8.75" y="585" width="130" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="q0-8a1jUSfiWmVxbnRCJ" name="Page-4">
+    <mxGraphModel dx="-2243" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="XnBgXK0WRTJXb8bvKWg6-0" />
+        <mxCell id="XnBgXK0WRTJXb8bvKWg6-1" parent="XnBgXK0WRTJXb8bvKWg6-0" />
+        <mxCell id="XnBgXK0WRTJXb8bvKWg6-2" value="Sight Reading&lt;br&gt;Piano Playiing&lt;br&gt;Ear Training&lt;br&gt;Voicing Training" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF6666;" vertex="1" parent="XnBgXK0WRTJXb8bvKWg6-1">
+          <mxGeometry x="3710" y="195" width="160" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
