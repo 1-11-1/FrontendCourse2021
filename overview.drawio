@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-04T00:59:52.822Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="LSsf3FXJQFktgNFXTGiF" version="14.3.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-04T01:02:30.382Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="jC-JvmG3DxZvXACSwU0W" version="14.3.1" type="github" pages="3">
   <diagram id="4R_qcKYH2vp2XVqdwSuo" name="Course Structure">
     <mxGraphModel dx="2997" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -360,11 +360,11 @@
         <mxCell id="N21ibdtsY8MG0RIo9o9P-12" value="Web MIDI API" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#3399FF;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
           <mxGeometry x="3570" y="405" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N21ibdtsY8MG0RIo9o9P-13" value="Generate Songs" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#3399FF;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
-          <mxGeometry x="3880" y="405" width="160" height="30" as="geometry" />
+        <mxCell id="N21ibdtsY8MG0RIo9o9P-13" value="Generate Song Lessons" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#3399FF;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
+          <mxGeometry x="3845" y="405" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N21ibdtsY8MG0RIo9o9P-14" value="Copyright Album" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#3399FF;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
-          <mxGeometry x="4200" y="407.5" width="160" height="30" as="geometry" />
+        <mxCell id="N21ibdtsY8MG0RIo9o9P-14" value="Copyright Lesson Album" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#3399FF;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
+          <mxGeometry x="4165" y="407.5" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="N21ibdtsY8MG0RIo9o9P-15" value="FREE Hosting&lt;br&gt;Unlimited Subdomains" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#3399FF;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
           <mxGeometry x="4500" y="560" width="220" height="50" as="geometry" />
