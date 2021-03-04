@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-04T01:25:20.954Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="wmsDiT88CQKOT6Tz9y-c" version="14.3.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-04T01:28:01.417Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="URLJZQc5vaneUIQgjRr6" version="14.3.1" type="github" pages="3">
   <diagram id="4R_qcKYH2vp2XVqdwSuo" name="Course Structure">
-    <mxGraphModel dx="2757" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2997" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="aols-5rolXVkZ8xjvUyL-0" />
         <mxCell id="aols-5rolXVkZ8xjvUyL-1" parent="aols-5rolXVkZ8xjvUyL-0" />
@@ -405,7 +405,7 @@
         <mxCell id="5CTyVqE6zgE68sqDR22Z-1" value="Web Audio API" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=25;fontStyle=0;fontColor=#FF9999;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
           <mxGeometry x="1330" y="520" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5CTyVqE6zgE68sqDR22Z-3" value="&lt;font color=&quot;#ff9999&quot;&gt;(Compute Keyboard Piano)&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#3399FF;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
+        <mxCell id="5CTyVqE6zgE68sqDR22Z-3" value="&lt;font color=&quot;#ff9999&quot;&gt;(Computer Keyboard Piano)&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#3399FF;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
           <mxGeometry x="3510" y="427" width="260" height="30" as="geometry" />
         </mxCell>
       </root>
