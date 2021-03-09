@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-04T23:53:13.744Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="TMKdMniG09dwYbddW8XL" version="14.3.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-09T00:38:29.014Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="4PaSlUOr4W6mcUPBmiPf" version="14.3.1" type="github" pages="3">
   <diagram id="4R_qcKYH2vp2XVqdwSuo" name="Course Structure">
     <mxGraphModel dx="2997" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -366,8 +366,8 @@
         <mxCell id="N21ibdtsY8MG0RIo9o9P-14" value="Copyright Songs" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#3399FF;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
           <mxGeometry x="4200" y="404.5" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N21ibdtsY8MG0RIo9o9P-15" value="FREE Hosting&lt;br&gt;Unlimited Subdomains" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF8000;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
-          <mxGeometry x="4500" y="560" width="220" height="50" as="geometry" />
+        <mxCell id="N21ibdtsY8MG0RIo9o9P-15" value="FREE Hosting (HTTPS)&lt;br&gt;Unlimited Subdomains" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF8000;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
+          <mxGeometry x="4495" y="560" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="G9QpwuHQuKTee4wvf9aK-2" value="Words |&amp;nbsp;&lt;b&gt;Scales&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=20;fontColor=#FF6666;" vertex="1" parent="aols-5rolXVkZ8xjvUyL-1">
           <mxGeometry x="2275" y="250" width="150" height="30" as="geometry" />
