@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-09T00:38:29.014Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="4PaSlUOr4W6mcUPBmiPf" version="14.3.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-10T00:33:32.872Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="nQ0NUkWOcELhEpKCdQaC" version="14.3.1" type="github" pages="3">
   <diagram id="4R_qcKYH2vp2XVqdwSuo" name="Course Structure">
     <mxGraphModel dx="2997" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -446,8 +446,8 @@
       <root>
         <mxCell id="b6WosxrlXobKB1DpbW5K-0" />
         <mxCell id="b6WosxrlXobKB1DpbW5K-1" parent="b6WosxrlXobKB1DpbW5K-0" />
-        <mxCell id="IcOEBJgiHppdrRuGzz-3-0" value="&lt;b&gt;&lt;u&gt;How You Will Learn&lt;/u&gt;&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=50;fontColor=#7EA6E0;" vertex="1" parent="b6WosxrlXobKB1DpbW5K-1">
-          <mxGeometry x="-700" y="460" width="480" height="70" as="geometry" />
+        <mxCell id="IcOEBJgiHppdrRuGzz-3-0" value="&lt;b&gt;&lt;u&gt;Your Learning Journey&lt;/u&gt;&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=50;fontColor=#7EA6E0;" vertex="1" parent="b6WosxrlXobKB1DpbW5K-1">
+          <mxGeometry x="-740" y="460" width="560" height="70" as="geometry" />
         </mxCell>
         <mxCell id="S0uparPsEf_w8CmD9rdN-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontSize=29;fontColor=#00CC00;" edge="1" parent="b6WosxrlXobKB1DpbW5K-1" source="S0uparPsEf_w8CmD9rdN-0" target="S0uparPsEf_w8CmD9rdN-1">
           <mxGeometry relative="1" as="geometry" />
@@ -604,7 +604,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Gh55axfkEm-xZD-oqk3l" name="Section Structure">
-    <mxGraphModel dx="1957" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2197" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="_15LmRB4a6UN6HwErNP7-0" />
         <mxCell id="_15LmRB4a6UN6HwErNP7-1" parent="_15LmRB4a6UN6HwErNP7-0" />
