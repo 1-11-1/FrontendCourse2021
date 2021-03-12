@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-12T23:31:36.699Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="XeQTvLzkKGceJw5b7iqr" version="14.4.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-12T23:34:55.491Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="kGSWlyS9fAQyUDWdI33c" version="14.4.6" type="github" pages="3">
   <diagram id="4R_qcKYH2vp2XVqdwSuo" name="Course Structure">
     <mxGraphModel dx="2998" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -729,11 +729,8 @@
         <mxCell id="hzC7S-Ra8dCphwzVax7Y-0" value="&lt;b&gt;Contrasts &lt;/b&gt;and&lt;b&gt; Tradeoffs &lt;/b&gt;=&amp;gt;&lt;b&gt; Best Practices&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=20;fontColor=#FF8000;" parent="_15LmRB4a6UN6HwErNP7-1" vertex="1">
           <mxGeometry x="-200" y="860" width="420" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ErEYsHPqZ5xucdFcyCue-0" value="&lt;b&gt;Readability, Performance, Security&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=20;fontColor=#7EA6E0;" parent="_15LmRB4a6UN6HwErNP7-1" vertex="1">
-          <mxGeometry x="-160" y="910" width="340" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="IuMDAqyduWM4eJTtV0sP-1" value="&lt;b&gt;&lt;font color=&quot;#7ea6e0&quot;&gt;Accessibility&lt;/font&gt;&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=20;fontColor=#3399FF;" parent="_15LmRB4a6UN6HwErNP7-1" vertex="1">
-          <mxGeometry x="-350" y="910" width="140" height="30" as="geometry" />
+        <mxCell id="ErEYsHPqZ5xucdFcyCue-0" value="&lt;b&gt;Readability, Performance, Security,&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;color: rgb(51 , 153 , 255)&quot;&gt;&lt;font color=&quot;#7ea6e0&quot;&gt;Accessibility&lt;/font&gt;&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=20;fontColor=#7EA6E0;" parent="_15LmRB4a6UN6HwErNP7-1" vertex="1">
+          <mxGeometry x="-230" y="910" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4n3X7G0HIx0nY0sKZiES-0" value="Mental Models" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=20;fontColor=#FF6666;" parent="_15LmRB4a6UN6HwErNP7-1" vertex="1">
           <mxGeometry x="-560" y="585" width="150" height="30" as="geometry" />
